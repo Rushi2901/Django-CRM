@@ -1,0 +1,2 @@
+[console_scripts]
+myl-discovery = myldiscovery:main
